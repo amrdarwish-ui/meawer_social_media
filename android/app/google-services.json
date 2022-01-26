@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543362960887",
+    "project_id": "meower-c7916",
+    "storage_bucket": "meower-c7916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543362960887:android:c38fab3599cf10e41532f2",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543362960887-ev2559gmm345dl08frfntfoac4p1ogoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOIoiEH-RpMRjn8qyRniIhrB-UmZG5gTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543362960887-ev2559gmm345dl08frfntfoac4p1ogoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
